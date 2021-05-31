@@ -16,8 +16,10 @@
 
 **Тест случаи според критериумот Every branch**
 ....
+
 ![image](https://user-images.githubusercontent.com/81538102/120238050-8808f400-c25c-11eb-8371-6f7e44e31ecd.png)
 ![image](https://user-images.githubusercontent.com/81538102/120238105-8a6b4e00-c25c-11eb-9064-16e56f8e6684.png)
 
 **Објаснување на напишаните unit tests**
+...
 ![image](https://user-images.githubusercontent.com/81538102/120238224-8fc89880-c25c-11eb-8165-a8fd5aa2c43e.png)
